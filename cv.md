@@ -12,3 +12,19 @@ I aspire to become a front-end developer. I like learning new things. Structure 
 
 ## My skills:
 html, css, javascript, scss, gulp, bem, npm, git, github, figma, photoshop
+
+## Code examples:
+
+`console.log('Hello RSS!');`
+
+`const sum = (a, b) => a + b;`
+
+## Experience:
+
+- [Landing](http://k90304h6.beget.tech/)
+
+Make it with html, css, BEM, has mobile adaptation.
+
+- [E-store](http://12.k90304h6.beget.tech/)
+
+Make it with gulp and SCSS preprocessor.
