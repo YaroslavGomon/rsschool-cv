@@ -28,3 +28,14 @@ Make it with html, css, BEM, has mobile adaptation.
 - [E-store](http://12.k90304h6.beget.tech/)
 
 Make it with gulp and SCSS preprocessor.
+
+## Education:
+
+- 03.2022 - present - Rolling Scopes School "JavaScript/Front-end 2022Q1"
+- 12.2021 - 03.2022 - Udemy "Modern JavaScript - From Zero to Junior"
+- 02.2021 - 04.2021 - "Markup from 0 to 1" by Vadim Prokopchuk
+- 09.2004 - 06.2009 - SSTU
+
+## English:
+
+A2 - pre-intermediate
